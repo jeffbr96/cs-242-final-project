@@ -1,0 +1,6 @@
+cake 50.0
+shoes 65.0
+bicicle 120.0
+guitar 2000.0
+surfacepro 3000.0
+spaceship 9999.999

@@ -1,0 +1,11 @@
+orangewwwwwwwww 12.0
+ppppppppppppppp 46.0
+car 1.0
+car 1.0
+car 3.0
+car 6.0
+car 9.0
+orange 8.0
+orange 9.0
+ppppppppppppppppppp 89.0
+ttttttttttttttttttttt 4568.0
